@@ -3,8 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-passoni/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/niapsso)
 
-![niapsso GitHub stats](https://github-readme-stats.vercel.app/api?username=niapsso&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niapsso&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![niapsso GitHub stats](https://github-readme-stats.vercel.app/api?username=niapsso&count_private=true&show_icons=true&theme=dracula)
 
 ### Tecnologias 
 <div style="display: inline_block"><br/>
