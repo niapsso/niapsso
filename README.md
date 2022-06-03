@@ -4,7 +4,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/niapsso)
 
 ![niapsso GitHub stats](https://github-readme-stats.vercel.app/api?username=niapsso&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niapsso&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niapsso&layout=compact&theme=dracula)
 
 ### Tecnologias 
 <div style="display: inline_block"><br/>
