@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/niapsso/niapsso/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/niapsso/niapsso/output/snake.svg" alt="Snake animation" />
 
 ###
